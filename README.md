@@ -14,7 +14,7 @@
   - 기존 구글 로그인을 **모바일 네이티브 REST API 방식으로 리팩토링**하여 클라이언트-서버 간 인증 프로세스의 보안성 및 통신 속도 개선
   - 데이터 무결성 확보와 쿼리 성능 향상을 위해 **1NF에서 BCNF까지의 데이터베이스 정규화** 진행 및 논리적 ERD 설계
   - 프론트엔드 팀원과의 원활한 협업을 위한 API 명세 최적화 및 메인 브랜치 코드 병합 관리 리드
-- **Repo:** [Routine-Mate Repository 바로가기](https://github.com/IS4Ps/Routine-Mate.git)
+- **Repo:** [Routine-Mate Repository 바로가기](https://github.com/ldzb/Routine-Mate)
 
 <br>
 
