@@ -8,13 +8,14 @@
 ## 🚀 Highlighted Project
 
 ### Routine-Mate (ADHD 아동의 집중력 향상을 위한 게이미피케이션 모바일 솔루션)
-- **Period:** 2026.03 - 2026.06 (Expected)
-- **Role:** Backend API Development & iOS Client Integration
-- **Tech & Achievement:**
-  - 기존 구글 로그인을 **모바일 네이티브 REST API 방식으로 리팩토링**하여 클라이언트-서버 간 인증 프로세스의 보안성 및 통신 속도 개선
-  - 데이터 무결성 확보와 쿼리 성능 향상을 위해 **1NF에서 BCNF까지의 데이터베이스 정규화** 진행 및 논리적 ERD 설계
-  - 프론트엔드 팀원과의 원활한 협업을 위한 API 명세 최적화 및 메인 브랜치 코드 병합 관리 리드
-- **Repo:** [Routine-Mate Repository 바로가기](https://github.com/ldzb/Routine-Mate)
+- **Period:** 2026.03 - 2026.06
+- **Role:** Backend API Development
+- **Contributions:**
+  - Spring Boot 기반 인증·사용자·루틴·미션 REST API 설계 및 구현
+  - Google·Kakao 모바일 네이티브 로그인과 JWT 인증 연동
+  - JPA 도메인 모델 및 MySQL 데이터 구조 설계
+  - Swagger 기반 API 명세 관리 및 모바일 클라이언트 연동
+- **Repository:** [IS4Ps/Routine-Mate](https://github.com/IS4Ps/Routine-Mate)
 
 <br>
 
@@ -40,4 +41,3 @@
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ldzb&theme=dark)
-
